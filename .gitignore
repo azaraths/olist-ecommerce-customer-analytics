@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data files (will track via Kaggle, not Git)
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.db
+data/processed/*.sqlite
+
+# Power BI
+dashboards/*.pbix
+
+# Local env
+.env
+*.env
