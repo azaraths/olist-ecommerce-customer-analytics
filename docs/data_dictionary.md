@@ -1,4 +1,4 @@
-# Olist Dataset — Data Dictionary
+# Olist Dataset Data Dictionary
 
 ## Source
 Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
