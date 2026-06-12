@@ -44,7 +44,7 @@ I used RFM segmentation for the customer base, a technique which I had to modify
 The categories where most analysts would traditionally focus on, like the Loyal Customers and Big Spenders, hold together just 1.13% of customers and 2.75% of revenue for Olist.
 
 ![Customer segments breakdown](../images/dashboard_page2_segments.png)
-*Figure 2: Customer segment breakdown — 13 segments by customer count and revenue contribution.*
+*Figure 2: Customer segment breakdown: 13 segments by customer count and revenue contribution.*
 
 **What it means for marketing:**
 
@@ -101,7 +101,7 @@ I compared first-order characteristics of customers who returned vs customers wh
 - Even the best first-order experience converts at only 3%. The first-order experience is a very limited predictor.
 
 ![First-order predictors](../images/dashboard_page4_predictors.png)
-*Figure 4: First-order experience tier and review score predict return — modestly.*
+*Figure 4: First-order experience tier and review score predict return modestly.*
 
 **What it means for marketing:**
 
