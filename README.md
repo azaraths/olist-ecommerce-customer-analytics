@@ -17,7 +17,7 @@ the analysis.
  **[Full case study writeup](docs/case_study.md)** - the complete analysis,
 findings, and recommendations
 
-📓 **Notebooks** (`notebooks/` folder):
+**Notebooks** (`notebooks/` folder):
 - `01_olist_data_exploration.ipynb` - initial exploration and SQL setup
 - `02_olist_data_cleaning.ipynb` - cleaning, joins, master tables
 - `03_olist_rfm_segmentation.ipynb` - RFM segmentation analysis
@@ -29,7 +29,7 @@ findings, and recommendations
 - [Research questions](docs/research_questions.md) - scope and prioritization
 - [Supporting findings](docs/supporting_findings.md) - detailed Q2/Q3/Q4 findings
 
- **SQL** (`sql/` folder) - standalone SQL scripts for the major queries
+**SQL** (`sql/` folder) - standalone SQL scripts for the major queries
 
 ## Methodology summary
 
